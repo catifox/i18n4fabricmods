@@ -1,0 +1,10 @@
+{
+  "deathlog.deathinfoproperty.coordinates": "坐标",
+  "deathlog.deathinfoproperty.dimension": "维度",
+  "deathlog.deathinfoproperty.location": "存档",
+  "deathlog.deathinfoproperty.score": "分数",
+  "deathlog.deathinfoproperty.death_message": "死亡信息",
+  "deathlog.deathinfoproperty.time_of_death": "死亡时间",
+  "deathlog.deathinfoproperty.trinket_component": "物品",
+  "key.deathlog.death_screen": "死亡屏幕"
+}

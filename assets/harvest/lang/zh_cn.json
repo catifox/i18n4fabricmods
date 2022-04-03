@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.simplerharvest.option.exhaustionPerHarvest": "每次收获的消耗",
+    "text.autoconfig.simplerharvest.option.additionalLogging": "调试日志记录",
+    "text.autoconfig.simplerharvest.option.crops": "作物配置",
+    "text.autoconfig.simplerharvest.option.crops.wheatEnabled": "启用小麦收割",
+    "text.autoconfig.simplerharvest.option.crops.wheatStage": "小麦可以收获的阶段",
+    "text.autoconfig.simplerharvest.option.crops.netherWartEnabled": "启用下界疣收获",
+    "text.autoconfig.simplerharvest.option.crops.netherWartStage": "可以收获下界疣的阶段",
+    "text.autoconfig.simplerharvest.option.crops.carrotEnabled": "启用胡萝卜收获",
+    "text.autoconfig.simplerharvest.option.crops.carrotStage": "可以收获胡萝卜的阶段",
+    "text.autoconfig.simplerharvest.option.crops.potatoEnabled": "启用土豆收获",
+    "text.autoconfig.simplerharvest.option.crops.potatoStage": "可以收获土豆的阶段",
+    "text.autoconfig.simplerharvest.option.crops.beetrootEnabled": "启用甜菜根收获",
+    "text.autoconfig.simplerharvest.option.crops.beetrootStage": "可以收获甜菜根的阶段"
+}

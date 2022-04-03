@@ -1,0 +1,27 @@
+{
+  "key.categories.resolutioncontrol": "Resolution Control",
+
+  "key.resolutioncontrol.settings": "Resolution Control 设置",
+  "key.resolutioncontrol.screenshot": "屏幕截图帧缓冲区",
+
+  "resolutioncontrol.settings.title": "Resolution Control",
+
+  "resolutioncontrol.settings.main": "主要",
+
+  "resolutioncontrol.settings.main.upscale": "高分辨率处理模式：",
+  "resolutioncontrol.settings.main.downscale": "低分辨率处理模式：",
+  "resolutioncontrol.settings.main.linear": "线性",
+  "resolutioncontrol.settings.main.nearest": "邻近",
+  "resolutioncontrol.settings.main.estimate": "Est: %s",
+
+  "resolutioncontrol.settings.screenshot": "截图",
+  "resolutioncontrol.settings.screenshot.overrideSize": "使用设置大小：",
+  "resolutioncontrol.settings.screenshot.alwaysAllocated": "始终分配：",
+  "resolutioncontrol.settings.screenshot.size": "尺寸：",
+
+  "resolutioncontrol.settings.info": "信息",
+  "resolutioncontrol.settings.info.gpu": "GPU:",
+  "resolutioncontrol.settings.info.maxTextureSize": "最大纹理尺寸：",
+
+  "resolutioncontrol.screenshot.wait": "正在处理截图..."
+}

@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.editsign.title": "EditSign 配置",
+  "text.autoconfig.editsign.error.invalidItemResourceLocation": "提供的项目无效，格式必须为 'mod_id:item_id'",
+  "text.autoconfig.editsign.category.default": "常规",
+  "text.autoconfig.editsign.option.requiredItemId": "要求物品的 ID",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[0]": "用户需要的物品 ID",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[1]": "持有以便编辑",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[2]": "一个牌子。",
+  "text.autoconfig.editsign.option.requiredItemId.@Tooltip[3]": "任何物品都可以",
+  "editsign.action.not_editable": "牌子不能被编辑"
+}

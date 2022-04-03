@@ -1,0 +1,4 @@
+{
+    "easiervillagertrading.config.swapshift": "使“交易全部”为默认",
+    "easiervillagertrading.config.tt.swapshift": "如果为 False，则使用 Shift 进行全部交易。\n如果为 True，则正常点击交易全部，Shift 点击交易一次"
+}

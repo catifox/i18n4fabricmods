@@ -1,0 +1,13 @@
+{
+    "advancementinfo.infopane": "信息",
+    "text.autoconfig.advancementinfo.title": "AdvancementInfo 设置",
+    "text.autoconfig.advancementinfo.option.colorHave": "完成的成就颜色",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "未完成的成就颜色",
+    "text.autoconfig.advancementinfo.option.marginX": "两侧空余宽度",
+    "text.autoconfig.advancementinfo.option.marginY": "上下空余宽度",
+    "text.autoconfig.advancementinfo.option.infoWidth": "信息宽度",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "最小",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "最大",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "百分比",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "开启"
+}

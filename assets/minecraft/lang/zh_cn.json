@@ -1,0 +1,10 @@
+{
+  "options.biomeBlendRadius.17": "17x17 (大)",
+  "options.biomeBlendRadius.19": "19x19 (很大)",
+  "options.biomeBlendRadius.21": "21x21 (非常大)",
+  "options.biomeBlendRadius.23": "23x23 (太大了)",
+  "options.biomeBlendRadius.25": "25x25 (大大大)",
+  "options.biomeBlendRadius.27": "27x27 (大大大大)",
+  "options.biomeBlendRadius.29": "29x29 (大大大大大)",
+  "options.biomeBlendRadiusTooltip": "BetterBiomeBlend 模组使用 29x29 的群系过渡"
+}
